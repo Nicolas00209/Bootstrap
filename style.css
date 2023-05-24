@@ -1,0 +1,14 @@
+
+.container{
+    display: flex;
+    align-items: center;
+}
+ul nav{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar-color{
+    text-decoration: none;
+    font-size: 30px;
+    color: forestgreen;
+}
